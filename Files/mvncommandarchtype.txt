@@ -1,0 +1,3 @@
+mvn archetype:generate -DgroupId=com.orasi -DartifactId=maven_training -Dversion=1.0 -DinteractiveMode=false
+
+mvn archetype:generate -DgroupId=com.orasi -DartifactId=maven_training-web -Dversion=1.0 -DarchetypeArtifactId=maven-archetype-webapp -DinteractiveMode=false

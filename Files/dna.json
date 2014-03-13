@@ -1,0 +1,5 @@
+{
+	"run_list": [
+		"recipe[class-cookbook::TestRecipe_1]"
+	]
+}
